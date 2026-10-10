@@ -10,7 +10,6 @@ Demo video: https://youtu.be/23NNdrc1SDA
   <img src="https://github.com/user-attachments/assets/1285c312-0955-41ee-81be-8113ae6b41dc" width="220" alt="Home feed" />
   <img src="https://github.com/user-attachments/assets/1269ac6d-761b-4124-8ec7-3380b938b576" width="220" alt="Report a new issue" />
   <img src="https://github.com/user-attachments/assets/ff2dd3c4-5265-4f7c-8101-8d3683123b84" width="220" alt="Issue details" />
-  <img src="https://github.com/user-attachments/assets/f19d9232-8934-4800-b171-1c8d223cfd4f" width="220" alt="Profile" />
 </p>
 
 <p align="center">
